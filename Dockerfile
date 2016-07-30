@@ -1,3 +1,4 @@
+# gigmade copy of cellprofiler/cellprofiler with mod to freeze cellprofiler commit
 #                                        Ü       ÜÜÜÜÜÜÜÜÜÜÜ
 #       Ü ÜÜÜÜÜÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜ °    ÜÛ² Ü ÜÜÜÛÛÛßßßßßßÛÛÛÛÜ  °
 #            ßßßßßßÛÛÛ² Ü   ßÛÛÛ² ±   ÛÛÛ²     ÛÛÛ² °     ÛÛÛ²  ±
